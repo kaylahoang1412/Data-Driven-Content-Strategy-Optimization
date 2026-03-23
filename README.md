@@ -98,3 +98,5 @@ In general, **midday (around lunch break)** and **early evening** tended to gene
 - Findings are specific to this dataset and should be validated through live content testing.
 ## Conclusion
 This analysis shows that social media performance is shaped not only by platform choice, but also by content category, post format, and posting time. The findings suggest that engagement can be improved through a more targeted content strategy that aligns platform selection, content format, and posting schedule with audience behaviour. Overall, the results provide practical guidance for making more effective and data-driven social media marketing decisions.
+## 📊 Full Report
+[Download HTML Report](./report.html)
