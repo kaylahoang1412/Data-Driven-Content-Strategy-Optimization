@@ -1,8 +1,11 @@
-# Data-Driven-Content-Strategy-Optimization
-Social media analytics project using Python to optimize content strategy and engagement performance
+# Social Media Performance Analysis
 ## Project Objective
-This project examines how platform, content category, post format, and posting time influence engagement performance, with the aim of supporting content planning and channel prioritization decisions.
+The objective of this project is to build a report that examines how platform, content category, post format, and posting time influence engagement performance, with the aim of providing actionable insights and recommendations for the Marketing team to implement content campaigns across various social media platforms.
+## Business Context
+As a data analyst for a global IT company, your role is to analyze content performance across multiple social media platforms. The Marketing Manager wants to launch content campaigns on various platforms and needs insights on how to maximize engagement rates on each platform. You will be provided with a dataset for 2024, recording detailed performance metrics at the post level, including platform information, content type, and geographic reach.
 ### Dataset Overview
+The dataset, provided by Onyx. It includes metadata such as post type (video, carousel image, text), content category (product promotion, education, entertainment), posting time, and hashtags used. Additionally, the dataset tracks performance metrics such as engagement rate, views, impressions, clicks, CTR, and geographic reach across various countries and regions.
+
 The dataset contains **5,600 rows** and **24 columns**, covering multiple social media platforms and content performance metrics such as engagement, views, likes, shares, comments, impressions, clicks, engagement rate, posting date, posting hour, and engagement level.
 ##### The platforms included are:
 - Facebook
